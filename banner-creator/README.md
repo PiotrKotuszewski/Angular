@@ -1,0 +1,1 @@
+Stworz swoj wlasny baner
