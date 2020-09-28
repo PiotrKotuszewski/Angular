@@ -1,0 +1,1 @@
+Aplikacja pobiera dane z serwera json
