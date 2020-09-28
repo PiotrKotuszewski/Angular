@@ -1,1 +1,1 @@
-Aplikacja pobiera dane z serwera json
+Trzeba uruchomic serwer movies-json-database
